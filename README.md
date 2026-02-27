@@ -46,7 +46,7 @@ A major focus of this project is **inference optimization**, benchmarking a base
 
 **1. Clone the repository:**
 ```bash
-git clone [https://github.com/yourusername/video-summarization-pipeline.git](https://github.com/yourusername/video-summarization-pipeline.git)
+git clone
 cd video-summarization-pipeline
 ```
 
